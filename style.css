@@ -30,6 +30,7 @@ p{
     width: 95%;
     margin: auto;
     font-size: 60px;
+    color: rgba(158, 57, 57, 0.733);
 
 }
 
@@ -80,3 +81,23 @@ p{
     
 }
 
+@media(max-width:600px){
+
+    p{
+        
+        
+        font-size: 20px;
+    
+    }
+    #user_input{
+        
+        font-size: 30px;
+
+        width: 300px;
+        
+    
+    
+        
+    }
+
+}
